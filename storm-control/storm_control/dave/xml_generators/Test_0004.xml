@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sequence>
+  
+
+  <branch name="Valve Loop">
+    <DAValveProtocol>Hybridize 12</DAValveProtocol>
+    <branch name="Movie Loop">
+      <branch name="Tile_0_00">
+        <DAMoveStage>
+          <stage_x type="float">4565.49</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_00</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_01">
+        <DAMoveStage>
+          <stage_x type="float">5065.61</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_01</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_02">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">11710.82</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_02</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_03">
+        <DAMoveStage>
+          <stage_x type="float">4540.73</stage_x>
+          <stage_y type="float">12042.58</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_03</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_04">
+        <DAMoveStage>
+          <stage_x type="float">5035.9</stage_x>
+          <stage_y type="float">12047.54</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_04</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_05">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12037.63</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_05</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_06">
+        <DAMoveStage>
+          <stage_x type="float">4520.92</stage_x>
+          <stage_y type="float">12349.59</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_06</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_07">
+        <DAMoveStage>
+          <stage_x type="float">5016.09</stage_x>
+          <stage_y type="float">12364.45</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_07</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_08">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">12359.49</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_08</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_09">
+        <DAMoveStage>
+          <stage_x type="float">4506.07</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_09</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_10">
+        <DAMoveStage>
+          <stage_x type="float">4986.38</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_10</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_11">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12691.26</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_11</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_12">
+        <DAMoveStage>
+          <stage_x type="float">4511.02</stage_x>
+          <stage_y type="float">12919.04</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_12</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_13">
+        <DAMoveStage>
+          <stage_x type="float">4971.53</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_13</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_0_14">
+        <DAMoveStage>
+          <stage_x type="float">5620.2</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_0_14</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+    </branch>
+    <DAValveProtocol>Hybridize 11</DAValveProtocol>
+    <branch name="Movie Loop">
+      <branch name="Tile_1_00">
+        <DAMoveStage>
+          <stage_x type="float">4565.49</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_00</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_01">
+        <DAMoveStage>
+          <stage_x type="float">5065.61</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_01</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_02">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">11710.82</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_02</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_03">
+        <DAMoveStage>
+          <stage_x type="float">4540.73</stage_x>
+          <stage_y type="float">12042.58</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_03</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_04">
+        <DAMoveStage>
+          <stage_x type="float">5035.9</stage_x>
+          <stage_y type="float">12047.54</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_04</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_05">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12037.63</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_05</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_06">
+        <DAMoveStage>
+          <stage_x type="float">4520.92</stage_x>
+          <stage_y type="float">12349.59</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_06</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_07">
+        <DAMoveStage>
+          <stage_x type="float">5016.09</stage_x>
+          <stage_y type="float">12364.45</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_07</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_08">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">12359.49</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_08</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_09">
+        <DAMoveStage>
+          <stage_x type="float">4506.07</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_09</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_10">
+        <DAMoveStage>
+          <stage_x type="float">4986.38</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_10</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_11">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12691.26</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_11</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_12">
+        <DAMoveStage>
+          <stage_x type="float">4511.02</stage_x>
+          <stage_y type="float">12919.04</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_12</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_13">
+        <DAMoveStage>
+          <stage_x type="float">4971.53</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_13</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_1_14">
+        <DAMoveStage>
+          <stage_x type="float">5620.2</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_1_14</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+    </branch>
+    <DAValveProtocol>Hybridize 10</DAValveProtocol>
+    <branch name="Movie Loop">
+      <branch name="Tile_2_00">
+        <DAMoveStage>
+          <stage_x type="float">4565.49</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_00</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_01">
+        <DAMoveStage>
+          <stage_x type="float">5065.61</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_01</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_02">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">11710.82</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_02</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_03">
+        <DAMoveStage>
+          <stage_x type="float">4540.73</stage_x>
+          <stage_y type="float">12042.58</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_03</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_04">
+        <DAMoveStage>
+          <stage_x type="float">5035.9</stage_x>
+          <stage_y type="float">12047.54</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_04</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_05">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12037.63</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_05</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_06">
+        <DAMoveStage>
+          <stage_x type="float">4520.92</stage_x>
+          <stage_y type="float">12349.59</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_06</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_07">
+        <DAMoveStage>
+          <stage_x type="float">5016.09</stage_x>
+          <stage_y type="float">12364.45</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_07</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_08">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">12359.49</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_08</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_09">
+        <DAMoveStage>
+          <stage_x type="float">4506.07</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_09</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_10">
+        <DAMoveStage>
+          <stage_x type="float">4986.38</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_10</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_11">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12691.26</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_11</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_12">
+        <DAMoveStage>
+          <stage_x type="float">4511.02</stage_x>
+          <stage_y type="float">12919.04</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_12</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_13">
+        <DAMoveStage>
+          <stage_x type="float">4971.53</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_13</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_2_14">
+        <DAMoveStage>
+          <stage_x type="float">5620.2</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_2_14</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+    </branch>
+    <DAValveProtocol>Hybridize 9</DAValveProtocol>
+    <branch name="Movie Loop">
+      <branch name="Tile_3_00">
+        <DAMoveStage>
+          <stage_x type="float">4565.49</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_00</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_01">
+        <DAMoveStage>
+          <stage_x type="float">5065.61</stage_x>
+          <stage_y type="float">11720.72</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_01</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_02">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">11710.82</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_02</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_03">
+        <DAMoveStage>
+          <stage_x type="float">4540.73</stage_x>
+          <stage_y type="float">12042.58</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_03</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_04">
+        <DAMoveStage>
+          <stage_x type="float">5035.9</stage_x>
+          <stage_y type="float">12047.54</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_04</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_05">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12037.63</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_05</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_06">
+        <DAMoveStage>
+          <stage_x type="float">4520.92</stage_x>
+          <stage_y type="float">12349.59</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_06</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_07">
+        <DAMoveStage>
+          <stage_x type="float">5016.09</stage_x>
+          <stage_y type="float">12364.45</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_07</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_08">
+        <DAMoveStage>
+          <stage_x type="float">5610.3</stage_x>
+          <stage_y type="float">12359.49</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_08</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_09">
+        <DAMoveStage>
+          <stage_x type="float">4506.07</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_09</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_10">
+        <DAMoveStage>
+          <stage_x type="float">4986.38</stage_x>
+          <stage_y type="float">12681.36</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_10</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_11">
+        <DAMoveStage>
+          <stage_x type="float">5615.25</stage_x>
+          <stage_y type="float">12691.26</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_11</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_12">
+        <DAMoveStage>
+          <stage_x type="float">4511.02</stage_x>
+          <stage_y type="float">12919.04</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_12</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_13">
+        <DAMoveStage>
+          <stage_x type="float">4971.53</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_13</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Tile_3_14">
+        <DAMoveStage>
+          <stage_x type="float">5620.2</stage_x>
+          <stage_y type="float">12968.56</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Tile_3_14</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+    </branch>
+  </branch>
+</sequence>

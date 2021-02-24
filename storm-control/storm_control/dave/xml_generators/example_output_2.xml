@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<sequence>
+  <branch name="Tile1">
+    <DAMoveStage>
+      <stage_x type="float">11900</stage_x>
+      <stage_y type="float">11900</stage_y>
+    </DAMoveStage>
+    <branch name="z1">
+      <DASetFocusLockTarget>
+        <lock_target type="float">10.0</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0001</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z2">
+      <DASetFocusLockTarget>
+        <lock_target type="float">7.5</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0002</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z3">
+      <DASetFocusLockTarget>
+        <lock_target type="float">5.0</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0003</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z4">
+      <DASetFocusLockTarget>
+        <lock_target type="float">2.5</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0004</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z5">
+      <DASetFocusLockTarget>
+        <lock_target type="float">0.0</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0005</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z6">
+      <DASetFocusLockTarget>
+        <lock_target type="float">-2.5</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0006</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z7">
+      <DASetFocusLockTarget>
+        <lock_target type="float">-5.0</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0007</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z8">
+      <DASetFocusLockTarget>
+        <lock_target type="float">-7.5</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0008</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+    <branch name="z9">
+      <DASetFocusLockTarget>
+        <lock_target type="float">-10.0</lock_target>
+      </DASetFocusLockTarget>
+      <DATakeMovie>
+        <name type="str">movie0009</name>
+        <length type="int">4</length>
+      </DATakeMovie>
+    </branch>
+  </branch>
+</sequence>

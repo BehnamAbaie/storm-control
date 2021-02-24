@@ -1,0 +1,24 @@
+<recipe>
+  <command_sequence>
+    <loop name="Valve Loop">
+      <loop name="Movie Loop" increment="name">
+        <item name="Movie 1"/>
+      </loop>
+    </loop>
+  </command_sequence>
+  <item name="Movie 1">
+    <movie>
+      <name increment="Yes">Tile</name>
+      <length>405</length>
+      <variable_entry name="Movie Loop"/>
+    </movie>
+  </item>
+  <loop_variable name="Valve Loop">
+    <valve>
+      <valve_protocol>Hybridize 12</valve_protocol>
+    </valve>
+  </loop_variable>
+  <loop_variable name="Movie Loop">
+    <file_path/>
+  </loop_variable>
+</recipe>

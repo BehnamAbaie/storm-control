@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sequence>
+  <branch name="Valve Loop 0">
+    <branch name="Movie Loop 0">
+      <branch name="bleach_0_0">
+        <DATakeMovie>
+          <name type="str">ZScan_movie_081</name>
+          <length type="int">6</length>
+        </DATakeMovie>
+      </branch>
+    </branch>
+  </branch>
+</sequence>

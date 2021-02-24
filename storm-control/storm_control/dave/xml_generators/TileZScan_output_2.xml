@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sequence>
+  
+
+  <branch name="Tile Loop">
+    <branch name="Movie Loop">
+      <branch name="Zscan_0_00">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_00</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_01">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_01</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_02">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_02</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_03">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_03</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_04">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_04</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_05">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_05</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_06">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_06</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_07">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_07</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_08">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">10000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_08</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_09">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_09</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_10">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_10</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_11">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_11</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_12">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_12</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_13">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_13</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_14">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_14</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_15">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_15</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_16">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_16</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_17">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">10250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_17</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_18">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_18</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_19">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_19</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_20">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_20</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_21">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_21</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_22">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_22</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_23">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_23</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_24">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_24</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_25">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_25</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_26">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">10500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_26</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_27">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_27</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_28">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_28</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_29">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_29</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_30">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_30</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_31">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_31</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_32">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_32</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_33">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_33</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_34">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_34</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_35">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">10750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_35</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_36">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_36</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_37">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_37</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_38">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_38</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_39">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_39</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_40">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_40</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_41">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_41</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_42">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_42</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_43">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_43</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_44">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">11000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_44</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_45">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_45</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_46">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_46</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_47">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_47</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_48">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_48</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_49">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_49</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_50">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_50</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_51">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_51</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_52">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_52</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_53">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">11250.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_53</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_54">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_54</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_55">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_55</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_56">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_56</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_57">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_57</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_58">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_58</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_59">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_59</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_60">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_60</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_61">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_61</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_62">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">11500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_62</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_63">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_63</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_64">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_64</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_65">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_65</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_66">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_66</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_67">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_67</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_68">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_68</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_69">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_69</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_70">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_70</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_71">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">11750.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_71</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_72">
+        <DAMoveStage>
+          <stage_x type="float">9750.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_72</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_73">
+        <DAMoveStage>
+          <stage_x type="float">10000.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_73</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_74">
+        <DAMoveStage>
+          <stage_x type="float">10250.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_74</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_75">
+        <DAMoveStage>
+          <stage_x type="float">10500.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_75</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_76">
+        <DAMoveStage>
+          <stage_x type="float">10750.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_76</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_77">
+        <DAMoveStage>
+          <stage_x type="float">11000.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_77</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_78">
+        <DAMoveStage>
+          <stage_x type="float">11250.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_78</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_79">
+        <DAMoveStage>
+          <stage_x type="float">11500.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_79</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+      <branch name="Zscan_0_80">
+        <DAMoveStage>
+          <stage_x type="float">11750.0</stage_x>
+          <stage_y type="float">12000.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">Zscan_0_80</name>
+          <length type="int">123</length>
+        </DATakeMovie>
+      </branch>
+    </branch>
+  </branch>
+</sequence>

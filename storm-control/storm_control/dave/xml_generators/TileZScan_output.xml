@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sequence>
+  
+
+  <branch name="Valve Loop">
+    <!--<DAValveProtocol>Hybridize 1</DAValveProtocol>-->
+    <branch name="Movie Loop">
+      <branch name="TileZscan_000">
+
+        <DAMoveStage>
+          <stage_x type="float">12300.0</stage_x>
+          <stage_y type="float">12300.0</stage_y>
+        </DAMoveStage>-->
+        <DATakeMovie>
+          <name type="str">movie_0001</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+ 
+        <DAMoveStage>
+          <stage_x type="float">12500.0</stage_x>
+          <stage_y type="float">12300.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0002</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12700.0</stage_x>
+          <stage_y type="float">12300.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0003</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12300.0</stage_x>
+          <stage_y type="float">12500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0004</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12500.0</stage_x>
+          <stage_y type="float">12500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0005</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12700.0</stage_x>
+          <stage_y type="float">12500.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0006</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12300.0</stage_x>
+          <stage_y type="float">12700.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0007</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12500.0</stage_x>
+          <stage_y type="float">12700.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0008</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">12700.0</stage_x>
+          <stage_y type="float">12700.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">movie_0009</name>
+          <length type="int">101</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8000.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_010</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8100.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_011</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8200.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_012</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8300.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_013</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8400.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_014</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8500.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_015</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+        <DAMoveStage>
+          <stage_x type="float">8600.0</stage_x>
+          <stage_y type="float">10950.0</stage_y>
+        </DAMoveStage>
+        <DATakeMovie>
+          <name type="str">cortex_016</name>
+          <length type="int">303</length>
+        </DATakeMovie>
+
+      </branch>
+    </branch>
+  </branch>
+</sequence>
